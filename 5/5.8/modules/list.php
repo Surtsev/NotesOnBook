@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <link href="../styles.css" rel="stylesheet" type="text/css">
+        <link href="/styles.css" rel="stylesheet" type="text/css">
         <title>Фотогалерея</title>
     </head>
     <body>
